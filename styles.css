@@ -1,0 +1,37 @@
+body {
+  background: #2e5266;
+  font-family: 'Kalam', cursive;
+}
+
+a {
+  text-decoration: none;
+}
+
+.wrapper {
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+}
+
+.wrapper h1 {
+  font-size: 7.5rem;
+  color: #6e8898;
+}
+
+.sub-wrapper input {
+  font-family: 'Kalam', cursive;
+  font-size: 1.4rem;
+  width: 14vw;
+}
+
+.sub-wrapper .btn {
+  color: #e2c044;
+  background: #9fb1bc;
+  width: 20vw;
+  box-shadow: 2.5px 5px #d3d0cb;
+}
+
+.wrapper p {
+  font-size: 4rem;
+  color: #9fb1bc;
+}
